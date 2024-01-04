@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Giang
 =========================================================================================================================================
 
-Student @ UMD
+CS Student @ UMD
 -------------
 
-I'm a third-year student at the University of Maryland - College Park. I've recently been self-teaching myself full stack development and am now an active member in school organizations such as Hack4Impact & Bitcamp.
+I'm a third-year Computer Science student at the University of Maryland - College Park. I've recently been self-teaching myself full stack development and am now an active member in school organizations such as Hack4Impact & Bitcamp.
 
 * 🌍  I'm based in Germantown, MD
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
