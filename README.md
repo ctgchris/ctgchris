@@ -9,7 +9,7 @@ I'm a third-year Computer Science student at the University of Maryland - Colleg
 * 🌍  I'm based in Germantown, MD
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
-* 🧠  I'm learning JS, React, Typescript
+* 🧠  I'm learning Data Science, Android Development, and Cybersecurity
 * 🤝  I'm open to collaborating on Full-stack development projects
 * ⚡  I enjoy tutoring at the University of Maryland
 
