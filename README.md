@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ UMD
 -------------
 
-I'm a third-year Computer Science student at the University of Maryland - College Park. I've recently been self-teaching myself full stack development and am now a part of the Hack4Impact-UMD Club as a student software engineer building software for NPOs.
-
+I'm a third-year Computer Science student at the University of Maryland - College Park. 
 * 🌍  I'm based in Germantown, MD
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
-* 🧠  I'm learning Data Science, Android Development, and Cybersecurity
+* 🧠  My technical interests are full-stack and cloud
 * 🤝  I'm open to collaborating on Full-stack development projects
 * ⚡  I enjoy tutoring at the University of Maryland
 
