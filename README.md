@@ -9,8 +9,6 @@ I'm a third-year Computer Science student at the University of Maryland - Colleg
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
 * 🧠  My technical interests are full-stack and cloud
-* 🤝  I'm open to collaborating on Full-stack development projects
-* ⚡  I enjoy tutoring at the University of Maryland
 
 ### Skills
 
