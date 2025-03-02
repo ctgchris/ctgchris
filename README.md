@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ UMD
 -------------
 
-I'm a third-year Computer Science student at the University of Maryland - College Park. 
+I'm a Computer Science student at the University of Maryland - College Park. 
 * 🌍  I'm based in Germantown, MD
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
