@@ -8,7 +8,7 @@ I'm a Computer Science student at the University of Maryland - College Park.
 * 🌍  I'm based in Germantown, MD
 * 🖥️  See my portfolio at [My website](http://ctgchris.github.io/portfolio/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
-* 🧠  My technical interests are full-stack and cloud
+* 🧠  My technical interests are full-stack, cloud and AI
 
 ### Skills
 
@@ -24,8 +24,8 @@ I'm a Computer Science student at the University of Maryland - College Park.
 
 ### Badges
 
-<b>My GitHub Stats</b>
+#<b>My GitHub Stats</b>
 
 
-<a href="https://github.com/ctgchris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctgchris&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#<a href="https://github.com/ctgchris" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctgchris&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
