@@ -6,10 +6,12 @@ CS Student @ UMD
 
 I'm a Computer Science student at the University of Maryland - College Park. 
 * 🌍  I'm based in Germantown, MD
-* 🖥️  See my portfolio at [My website](http://ctgchris.github.io/)
 * ✉️  You can contact me at [ctgchris3@gmail.com](mailto:ctgchris3@gmail.com)
 * 🧠  My technical interests are full-stack, cloud and AI
-
+<!---
+* 🖥️  See my portfolio at [My website](http://ctgchris.github.io/)
+and here
+-->
 ### Skills
 
 
